@@ -6,14 +6,8 @@
     padding: 0;
     box-sizing: border-box;
 } 
-.attribution {
-    font-size: 11px;
-    text-align: center;
-    font-size: "red hat Display", sans-serif;
-    margin: auto auto ;
-}
 
-@media screen and (min-width:375px) and (max-width:1440px) {
+@media screen and (min-width:375px) {
 body{
     background: url(pattern-background-desktop.svg);
     background-color:hsl(225, 100%, 94%) ;
